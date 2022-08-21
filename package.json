@@ -1,0 +1,23 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "First steps learning node/express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amargh2/web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amargh2/web-server/issues"
+  },
+  "homepage": "https://github.com/amargh2/web-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
